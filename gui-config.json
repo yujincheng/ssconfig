@@ -1,0 +1,52 @@
+{
+  "configs": [
+    {
+      "server": "ipv6.yujincheng.me",
+      "server_port": 8990,
+      "password": "t66y",
+      "method": "aes-256-cfb",
+      "remarks": "host",
+      "auth": false
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "fontName": "Consolas",
+    "fontSize": 8.0,
+    "bgColor": "black",
+    "textColor": "white",
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "width": 600,
+    "height": 400,
+    "top": 620,
+    "left": 1320,
+    "maximized": true
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyServer": "",
+    "proxyPort": 0
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "ChangeToPac": "",
+    "ChangeToGlobal": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
