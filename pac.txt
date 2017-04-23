@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "iqiyi.com": 1,
   "panda.tv": 1,
   "douyu.com": 1,
   "zhanqi.tv": 1,
